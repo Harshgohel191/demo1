@@ -1,0 +1,61 @@
+h2 {
+    color: blue;
+}
+
+#idheaderintro {
+    color: blueviolet;
+}
+
+.fix {
+    color: brown;
+    color: #561955;
+}
+
+#hslDemo {
+    color: hsla(20, 15%, 20%, 0.5);
+
+}
+
+#txtAlign {
+    color: rgb(25, 45, 45);
+    text-align: left;
+    border-radius: 20px 20px 20px 20px;
+    border-color: chocolate;
+    background-color: brown;
+    border: 10px;
+    padding: 25px;
+    height: 210px;
+    border-radius: 25px;
+
+}
+
+#deco {}
+
+a {
+    text-decoration: none;
+}
+
+#trans {
+    text-transform: lowercase;
+    text-decoration: overline;
+    background-color: rgb(25, 45, 45);
+    color: chartreuse;
+    text-indent: 2px;
+    letter-spacing: 2px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    text-align: center;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+#spacing {
+    text-indent: 20px;
+    letter-spacing: 2px;
+    word-spacing: 30px;
+    line-height: 50px;
+}
