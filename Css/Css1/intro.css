@@ -4,11 +4,12 @@ h2 {
 
 #idheaderintro {
     color: blueviolet;
+    color: #561955;
 }
 
 .fix {
-    color: brown;
-    color: #561955;
+    color: rgb(59, 53, 53);
+    color: #eab0e9;
 }
 
 #hslDemo {
@@ -29,7 +30,6 @@ h2 {
 
 }
 
-#deco {}
 
 a {
     text-decoration: none;
